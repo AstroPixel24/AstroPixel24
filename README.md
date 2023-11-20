@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AstroPixel24, otherwise known as Aldric Benalan. 
 - 👀 I’m interested in competitive programming, astrophysics, and machine learning.
 - 🌱 I’m currently learning data structures and algorithms.
-- 💞️ I’m looking to collaborate on data modeling projects or any projects pertaining to science.
+- 💞️ I’m looking to collaborate on data modeling projects or any science/math related projects.
 - 📫 How to reach me: aldricbenalan@gmail.com via Email, and polaris24 via Discord
 - 💻 The programming langauges that I know are C++, Python, and Java.
 
