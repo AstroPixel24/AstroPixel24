@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithms.
 - 💞️ I’m looking to collaborate on data modeling projects or any science/math related projects.
 - 📫 How to reach me: aldricbenalan@gmail.com via Email, and polaris24 via Discord
-- 💻 The programming langauges that I know are C++, Python, and Java.
+- 💻 Experienced with C++, Java, Python, and MATLAB
 
 <!---
 AstroPixel24/AstroPixel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
